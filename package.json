@@ -1,0 +1,20 @@
+{
+  "name": "mern-thinkboard",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuzammilMulla04/MERN-ThinkBoard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuzammilMulla04/MERN-ThinkBoard/issues"
+  },
+  "homepage": "https://github.com/MuzammilMulla04/MERN-ThinkBoard#readme",
+  "description": ""
+}
